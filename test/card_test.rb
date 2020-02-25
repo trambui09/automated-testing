@@ -34,6 +34,12 @@ describe Card do
       # The current implementation of to_s does not address this feature
       # Write the test, see it fail, then modify to_s to make it pass!
       # (Consider writing a helper method!)
+      #
+      # For reference:
+      #  1: Ace
+      #  11: Jack
+      #  12: Queen
+      #  13: King
     end
   end
 
